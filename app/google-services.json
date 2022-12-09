@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658136063526",
+    "project_id": "smartbilling-4aa28",
+    "storage_bucket": "smartbilling-4aa28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658136063526:android:7d2fc9a0a06a4b914d10e7",
+        "android_client_info": {
+          "package_name": "com.vaishu.smartbilling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658136063526-tdu4248m5t2dmtv3nkq2bdm83m9a0eqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9LO1F2sZ899BU57hDdZLxzoXexUc5Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658136063526-tdu4248m5t2dmtv3nkq2bdm83m9a0eqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
